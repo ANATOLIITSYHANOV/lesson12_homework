@@ -37,3 +37,39 @@
     bottom: 18px;
  }
 
+.aa-product-nav{
+    width: 245px;
+    height: 320px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.aa-product-name{
+    font-size: 24px;
+    color: cdcdcf;
+    display: block;
+    margin: 0;
+}
+
+.aa-product-description{
+    font-size: 14px;
+    color: cdcdcf;
+    opacity: 0.54;
+    display: block;
+    margin: 15px 0;
+}
+
+.aa-product__imgstars{
+    margin: 12px 50px 28px 0;
+}
+
+.aa-product-button{
+    display: block;
+    margin-top: 30px;
+    padding: 15px 55px;
+    font-size: 14px;
+    color: 58616c;
+    background-color: 283443;
+    outline:none;
+}
