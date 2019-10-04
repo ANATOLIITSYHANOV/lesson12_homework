@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'MuseoSansRounded-100';  
+    src: local('MuseoSansRounded-100'), url('https://nomail.com.ua/files/woff/24b76c23a1f336d9579b7f3447f9812c.woff') format('woff'); 
+}
+
+.aa-body{
+    height: 600px;
+    font-family: 'MuseoSansRounded-100';
+    background-image: url('../IMG/mainbackgr.jpg');
+    background-repeat: no-repeat;
+    background-size:100% 600px;
+    margin: 0;
+}
+
+.aa-product{
+   width: 685;
+   height: 390;
+   background-color: 152335;
+   border-radius: 1.5%;
+   margin: 110px auto;
+   position: relative;
+}
+
+.aa-logo{
+   position: absolute;
+    margin: 25px 0 0 20px;
+}
+
+.aa-product__nike{
+   position: absolute;
+    margin: 125px 0 0 35px;
+}
+
+.aa-product__imgbullets{
+    position: absolute;
+    left: 175px;
+    bottom: 18px;
+ }
+
